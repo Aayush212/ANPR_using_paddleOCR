@@ -1,0 +1,5 @@
+flask
+opencv-python
+fastanpr
+numpy == 1.24.4
+pyinstaller
